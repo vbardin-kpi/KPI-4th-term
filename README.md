@@ -1,4 +1,4 @@
-# KPI 4-th term studing
+# KPI 4-th term
 
 ## Subjects
 
