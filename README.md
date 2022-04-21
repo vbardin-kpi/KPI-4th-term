@@ -4,14 +4,15 @@
 
 | Subject                        | How to close | Work allowed | Notes                        |
 |--------------------------------|--------------|--------------|------------------------------|
-| Data Science                   | Courcera     | - [ ]        |                              |
-| English                        | GClassRoom   | - [x]        | Work gives some extra points |
-| ~~GDC~~                        | Work         | - [x]        |                              |
-| Heuristics                     |              | - [ ]        |                              |
-| KPI-3                          | Labs         | - [ ]        |                              |
-| Math-Stats                     | Labs + CGW   | - [ ]        |                              |
-| ~~Modern Development at .NET~~ | Work         | - [x]        | Required labs: 1, 2, 3, 5    |
-| Multi-Paradigm Programming     | Courcera     | - [ ]        |                              |
+| Data Science                   | Courcera     | No           |                              |
+| English                        | GClassRoom   | Yes          | Work gives some extra points |
+| ~~GDC~~                        | Work         | Yes          |                              |
+| Heuristics                     |              | No           |                              |
+| KPI-3                          | Labs         | No           |                              |
+| Math-Stats                     | Labs + CGW   | No           |                              |
+| ~~Modern Development at .NET~~ | Work         | Yes          | Required labs: 1, 2, 3, 5    |
+| Multi-Paradigm Programming     | Courcera     | No           |                              |
+
 
 ## Schedule
 
