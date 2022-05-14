@@ -15,30 +15,7 @@
 
 
 ## Schedule
-
-### Week 1
-
-| #                      | Monday                           | Tuesday                              | Wednesday   | Thursday                             |
-|------------------------|----------------------------------|--------------------------------------|-------------|--------------------------------------|
-| (1)<br/> 08-30 - 10-05 | Math-Stats (Lecture)             | Math-Stats (Lecture)                 |             | Modern Development at .NET (Lecture) |
-| (2)<br/> 10-25 - 12-00 | KPI-3 (Lecture)                  | GDC (Lecture)                        | GDC (Lab)   |                                      |
-| (3)<br/> 12-20 - 13-55 |                                  | Data Science (Lecture)               |             |                                      |
-| (4)<br/> 14-15 - 15-50 | Heuristics (Practice)            | Multi-Paradigm Programming (Lecture) | KPI-3 (Lab) |                                      |
-| (5)<br/> 16-10 - 17-45 |                                  | English (Practice)                   |             |                                      |
-| (6)<br/> 18:30 - 20:05 | Multi-Paradigm Programming (Lab) | Math-Stats (Practice)                |             |                                      |
-
-
-### Week 2
-
-| #                      | Monday                           | Tuesday                              | Wednesday   | Thursday                             |
-|------------------------|----------------------------------|--------------------------------------|-------------|--------------------------------------|
-| (1)<br/> 08-30 - 10-05 |                                  | Math-Stats (Lecture)                 |             | Modern Development at .NET (Lecture) |
-| (2)<br/> 10-25 - 12-00 | KPI-3 (Lecture)                  | GDC (Lecture)                        | GDC (Lab)   |                                      |
-| (3)<br/> 12-20 - 13-55 |                                  | Data Science (Lecture)               |             |                                      |
-| (4)<br/> 14-15 - 15-50 | Heuristics (Practice)            | Multi-Paradigm Programming (Lecture) | KPI-3 (Lab) |                                      |
-| (5)<br/> 16-10 - 17-45 |                                  | English (Practice)                   |             |                                      |
-| (6)<br/> 18:30 - 20:05 | Multi-Paradigm Programming (Lab) | Math-Stats (Practice)                |             |                                      |
-
+[IT-01 Schedule](https://schedule.kpi.ua/?groupName=%D0%86%D0%A2-01)
 
 ## Repos For Subjects
 
@@ -47,3 +24,11 @@
 
 ### Multi-Paradigm Programming
 - [Lab 1](https://github.com/vbardin-kpi/MPP-L1)
+
+## Coursera Courses useful links
+- [Coursera financial aid](https://github.com/abdelrahmaan/Financial-aid-on-coursera-)
+- [Software Design and Architecture](https://github.com/bishwa-poudel/Software-Design-and-Architecture-Specialization-Coursera)
+- [Software Architecture Coursera Quiz Answers](https://networkingfunda.com/software-architecture-coursera-quiz-answers/)
+- [Machine Learning Standford](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)
+- [Basic & Advanced Modeling for Discrete Optimization](https://github.com/SosnoviyBor/Basic-and-Advanced-Modeling-for-Discrete-Optimization)
+- [Modeling for Discrete Optimization](https://github.com/fl1nK/Modeling-for-Discrete-Optimization)
